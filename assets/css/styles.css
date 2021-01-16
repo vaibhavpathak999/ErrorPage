@@ -1,0 +1,37 @@
+img {
+  position: absolute;
+  padding: 5px;
+  margin: 0px;
+}
+
+.bodyClass {
+  text-align: center;
+}
+
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+}
+
+#bottom {
+  display: inline;
+}
+
+img {
+  z-index: -1;
+}
+
+img {
+}
+
+#alienImage {
+  display: inline;
+  position: fixed;
+  margin: 98px;
+}
+
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+}
+
+.container.main {
+  text-align: center;
+}
+
